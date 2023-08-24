@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Office Transformation
-====================================================
 
 As AI technology continues to advance, its impact on the modern office environment is becoming increasingly significant. This chapter will explore the impact of AI on office transformation, enabling offices to overcome key challenges, facilitate continuous learning and improvement, and empower employees to achieve greater success and fulfillment in their work endeavors.
 

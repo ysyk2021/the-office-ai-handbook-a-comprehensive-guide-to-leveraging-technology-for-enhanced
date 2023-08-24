@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Office Transformation
-===============================================================
 
 As offices increasingly integrate artificial intelligence (AI) technology into their practices, it is important to evaluate the impact of this transformation. In this chapter, we will explore how offices can measure the return on investment (ROI) and effectiveness of AI implementation, as well as identify key performance metrics and goals for AI-enabled office optimization.
 

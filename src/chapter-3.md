@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enabled Office Transformation
-================================================================
 
 As artificial intelligence (AI) technologies become increasingly prevalent in business environments, it is important to get started with AI-enabled office transformation. In this chapter, we will explore three key subtopics to consider when getting started with AI-enabled office transformation.
 

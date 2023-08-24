@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Office Practice
-========================================================================================================================================
 
 Artificial intelligence (AI) technology offers a variety of techniques and applications that can be leveraged to enhance office performance. In this chapter, we will explore different types of AI techniques and their specific applications for office practice.
 

@@ -1,5 +1,3 @@
-Improving Employee Engagement and Satisfaction with AI-Enabled Feedback and Support
-=======================================================================================================================================
 
 One of the most significant benefits of integrating artificial intelligence (AI) technology into office practice is improving employee engagement and satisfaction. In this chapter, we will explore how offices can use AI-enabled feedback and support to enhance employee engagement and satisfaction.
 

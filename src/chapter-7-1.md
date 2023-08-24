@@ -1,5 +1,3 @@
-Measuring the ROI and Effectiveness of AI Implementation in Office Practice
-============================================================================================================================================
 
 In addition to identifying key performance metrics and goals for AI implementation in office practice, it is important to evaluate the return on investment (ROI) and effectiveness of such implementation. In this chapter, we will explore how offices can measure the ROI and effectiveness of AI implementation in office practice.
 

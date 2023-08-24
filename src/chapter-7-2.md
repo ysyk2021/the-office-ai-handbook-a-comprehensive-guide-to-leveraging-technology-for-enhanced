@@ -1,5 +1,3 @@
-Identifying Key Performance Metrics and Goals for AI-Enabled Office Optimization
-=================================================================================================================================================
 
 While the deployment of artificial intelligence (AI) technology in the office environment has the potential to lead to transformative results, it is important to evaluate the impact of such technology on key performance metrics and goals. In this chapter, we will explore how offices can evaluate the impact of AI on office transformation by identifying key performance metrics and goals.
 

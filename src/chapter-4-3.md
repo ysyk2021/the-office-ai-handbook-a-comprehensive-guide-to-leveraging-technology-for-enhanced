@@ -1,5 +1,3 @@
-Improving Decision Making and Problem Solving with AI-Enabled Data Analysis and Visualization
-========================================================================================================================================================================
 
 Data analysis and visualization are essential tools for making informed decisions and solving problems in the office. However, traditional methods of data analysis can be time-consuming and may not always provide actionable insights. In this chapter, we will explore how AI-enabled data analysis and visualization can improve decision making and problem-solving in the office.
 

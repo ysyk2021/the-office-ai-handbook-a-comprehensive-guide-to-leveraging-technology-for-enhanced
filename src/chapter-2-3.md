@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Office Optimization
-=========================================================================================================================
 
 Implementing AI technology in office environments requires the right tools and platforms to optimize performance. In this chapter, we will explore some of the most popular tools and platforms for AI-enabled office optimization.
 
