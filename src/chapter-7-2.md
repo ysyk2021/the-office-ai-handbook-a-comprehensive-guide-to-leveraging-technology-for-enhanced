@@ -1,5 +1,4 @@
-Chapter: Identifying Key Performance Metrics and Goals for AI-Enabled Office Optimization
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying key performance metrics and goals for AI-enabled office optimization. When implementing AI technologies in an office environment, it is crucial to define clear objectives and measurable outcomes. By identifying the right metrics and setting appropriate goals, offices can effectively measure the impact of AI and drive continuous improvement towards enhanced performance and results.
 

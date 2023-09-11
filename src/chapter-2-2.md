@@ -1,5 +1,4 @@
-Chapter: Different Types of AI Techniques and Applications for Office Practice
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of artificial intelligence (AI) techniques and their applications in office practice. AI has the potential to revolutionize how offices operate, enabling automation, decision support, and improved efficiency. By understanding the different AI techniques and their practical applications, offices can leverage these technologies to enhance performance and achieve better results.
 
